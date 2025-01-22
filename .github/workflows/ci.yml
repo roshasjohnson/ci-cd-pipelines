@@ -26,5 +26,5 @@ jobs:
         pip install --upgrade pip
 
     - name: Run unit tests
-      run: python -m unittest test_calculator.py
+      run: python -m unittest calculator/test_calculator.py
 
