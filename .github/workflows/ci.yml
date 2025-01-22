@@ -8,7 +8,7 @@ on:
     branches:
       - main
 
-jobsf:
+jobs:
   test:
     runs-on: ubuntu-latest
 
